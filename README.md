@@ -1,6 +1,7 @@
 # Login-Registration
 
-## Language
+
+## Language:
   * HTML 
   * CSS 
   * JavaScript
